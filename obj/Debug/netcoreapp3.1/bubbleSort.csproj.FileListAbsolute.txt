@@ -1,0 +1,13 @@
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort.deps.json
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort.runtimeconfig.json
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort.runtimeconfig.dev.json
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort.dll
+/home/roman/Стільниця/bubbleSort/bin/Debug/netcoreapp3.1/bubbleSort.pdb
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.csprojAssemblyReference.cache
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.csproj.CoreCompileInputs.cache
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.AssemblyInfoInputs.cache
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.AssemblyInfo.cs
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.dll
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.pdb
+/home/roman/Стільниця/bubbleSort/obj/Debug/netcoreapp3.1/bubbleSort.genruntimeconfig.cache
